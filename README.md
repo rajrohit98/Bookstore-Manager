@@ -1,4 +1,4 @@
-# Bookstore-Manager
+# Bookstore-Manager in Python and Sqlite2 Library
 Bookstore Manager is a book storing management software made in Python using sqlite3 library.
 
 This program has features of -
